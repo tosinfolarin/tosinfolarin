@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tosinfolarin I am currently a Web Development Student. I am really excited to collaborate with others, build some amazing projects and learn about new tools along the way.
+- 👋 Hi, I’m @tosinfolarin I have previously completed MSc Web Development course where I acheived a Distinction. I am really excited to collaborate with others, build some amazing projects and learn about new tools along the way.
 - 👀 I’m interested in learning deepening my understanding of programming languages and meeting some amazing programmers that I can learn from.
 - 🌱 I’m huge on continuious professional development and will always jump at the opportunity to learn something new.
 - 💞️ I’m looking to collaborate on amazing projects with other programmers
 - 📫 How to reach me: You can contact me Via LinkedIn - www.linkedin.com/in/theo-osinfolarin-ldn
-- ⚡ Fun fact: My undergraduate Degree was in Physiotherpay
+- ⚡ Fun fact: My undergraduate Degree was in Physiotherpay before embarking on a career change into the world of engineering.
