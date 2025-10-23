@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tosinfolarin,  I'm currently working as an Associate engineer after having previously completed MSc Web Development degree where I acheived a Distinction. I am really excited to collaborate with others, build some amazing projects and learn about new tools along the way.
+- 👋 Hi, I’m @tosinfolarin,  I recently completed a year-long internship working as an Associate engineer with Equals Money after having previously completed MSc Web Development degree where I acheived a Distinction. I am really excited to collaborate with others, build some amazing projects and learn about new tools along the way.
 - 👀 I’m interested in learning deepening my understanding of programming languages, building impactful client-facing products and meeting some amazing programmers that I can learn from.
 - 🌱 I’m huge on continuious professional development and will always jump at the opportunity to learn something new.
 - 💞️ I’m looking to collaborate on amazing projects with other programmers
